@@ -1,6 +1,6 @@
 ## Hey cool people! 👋 
 
-I’m a former professional sport acrobat and performer in one of the world’s top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
+I’m a former professional sport acrobat and performer in one of the amazing top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
 
 <img align="left" width="200" src="https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90" />
 
@@ -36,11 +36,9 @@ I’m a former professional sport acrobat and performer in one of the world’s 
 
 <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="die lokale" />
 
-####
-
 #### Let's stay in touch
 
-<a  href="https://www.linkedin.com/in/oleksii-sodolinskyi/">
+<a href="https://www.linkedin.com/in/oleksii-sodolinskyi/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linedkinn" />
 </a>
 
