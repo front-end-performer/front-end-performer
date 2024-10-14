@@ -34,7 +34,9 @@ I’m a former professional sport acrobat and performer in one of the top shows.
 
 #### My current project
 
-<img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="die lokale" />
+<a href="https://www.dielokale.com">
+  <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="die lokale" />
+</a>
 
 #### Let's stay in touch
 
