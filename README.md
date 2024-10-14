@@ -1,8 +1,8 @@
 ## Hey cool people! 👋 
 
-I’m a former professional sport acrobat and performer in one of the amazing top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
+I’m a former professional sport acrobat and performer in one of the top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
 
-<img align="left" width="200" src="https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90" />
+<img align="left" width="250" src="https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90" />
 
 #### My Tech Stack
 
