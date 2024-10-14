@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hey cool people! 👋
 
-**front-end-performer/front-end-performer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a former professional sport acrobat and performer in one of the world’s top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer.
 
-I am Oleksii and working as a Front End Web Developer. I have studied Full Stack Developemt in mid-2019.
-
-I am really enthusiastic about learning new technology. Currenlty working on my project: www.dielokale.com.
+I am really enthusiastic about learning new technology. Currenlty working on one of my project: www.dielokale.com.
 
 Here are some ideas to get you started:
 
