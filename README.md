@@ -1,6 +1,6 @@
 ## Hey cool people! 👋
 
-<img src="![pyramide_sm](https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90)" alt="pyramide" style="height:100px;"/>
+![pyramide_sm](https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90 =x100)
 
 
 
