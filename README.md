@@ -44,4 +44,8 @@ I’m a former professional sport acrobat and performer in one of the top shows.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linedkinn" />
 </a>
 
+###
+
+![Visitor Count](https://profile-counter.glitch.me/front-end-performer/count.svg)
+
 
