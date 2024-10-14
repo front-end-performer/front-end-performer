@@ -3,6 +3,10 @@
 <!--
 **front-end-performer/front-end-performer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am Oleksii and working as a Front End Web Developer. I have studied Full Stack Developemt in mid-2019.
+
+I am really enthusiastic about learning new technology. Currenlty working on my project: www.dielokale.com.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
