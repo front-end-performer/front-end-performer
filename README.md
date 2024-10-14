@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on www.dielokale.com.
 - 🌱 I’m currently learning ChatGPT API's, getting familiar AI.
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
