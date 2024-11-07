@@ -1,4 +1,4 @@
-## Hi! 👋 
+## Hi! 👋  Current occupation while searching for a job: https://www.the-inked-clown.de/ (Next.js, Node.js)
 
 I’m a former professional sport acrobat and performer in one of the top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
 
