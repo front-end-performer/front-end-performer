@@ -1,4 +1,4 @@
-## Hi! 👋  My playgrounds: www.the-inked-clown.de, www.dielokale.com (React.js, Next.js, Node.js)
+## Hi! 👋  
 
 I’m a former professional sport acrobat and performer in one of the top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
 
@@ -40,6 +40,10 @@ I’m a former professional sport acrobat and performer in one of the top shows.
 
 <a href="https://www.dielokale.com">
   <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="die lokale" />
+</a>
+
+<a href="https://www.the-inked-clown.de">
+  <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="the inked clown" />
 </a>
 
 #### Let's stay in touch
