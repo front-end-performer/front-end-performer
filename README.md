@@ -1,6 +1,6 @@
 ## Hi! 👋  
 
-I’m a former professional sport acrobat and performer in one of the top shows. Since 2016, I’ve transitioned into a career as a Front-End Developer. That’s right! :) In 2019, I expanded my skills by studying Full-Stack Development, and for the past five years, I've been working as a dedicated Front-End Developer. I am enthusiastic about learning and understanding new technologies.
+Since 2016, I have been advancing my career as a Frontend Developer. In 2019, I expanded my skill set by studying Full-Stack Development, further enhancing my technical expertise. For over 4 years, I have been working as a dedicated Frontend Developer, driven by a passion for continuous learning and adopting new technologies to deliver impactful, user-focused solutions.
 
 <img align="left" width="250" src="https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90" />
 
@@ -41,9 +41,10 @@ I’m a former professional sport acrobat and performer in one of the top shows.
 <a href="https://www.dielokale.com">
   <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="die lokale" />
 </a>
-
+</br>
+</br>
 <a href="https://www.the-inked-clown.de">
-  <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="the inked clown" />
+  The Inked Clown
 </a>
 
 #### Let's stay in touch
