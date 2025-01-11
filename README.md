@@ -38,9 +38,6 @@ Since 2016, I have been advancing my career as a Frontend Developer. In 2019, I 
 
 #### My current project
 
-<a href="https://www.dielokale.com">
-  <img align="center" width="150" src="https://github.com/user-attachments/assets/26c857c3-f552-4261-a222-7e1169f96ef2" alt="die lokale" />
-</a>
 <a href="https://www.the-inked-clown.de">
   The Inked Clown
 </a>
