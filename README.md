@@ -48,11 +48,6 @@ Since 2016, I have been advancing my career as a Frontend Developer. In 2019, I 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linedkinn" />
 </a>
 
-###
-
-
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffront-end-performer%2Fthe-inked-clown-latest%2F&style=flat)
-
 
 
 
