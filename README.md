@@ -50,7 +50,9 @@ Since 2016, I have been advancing my career as a Frontend Developer. In 2019, I 
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/front-end-performer/count.svg)
+
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyour-username%2Ffront-end-performer%2F&style=flat)
+
 
 
 
