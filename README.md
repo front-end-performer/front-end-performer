@@ -1,6 +1,6 @@
 <img align="right" width="200" src="https://github.com/user-attachments/assets/d4af4456-f134-47a4-b651-d476a7557e90" alt="Oleksii Sodolinskyi" />
 
-## Hi, I'm Oleksii 👋
+### Hi, I'm Oleksii 👋
 
 Senior Software Developer based in Düsseldorf with 7+ years of experience building web applications. I focus on React, Vue and TypeScript, with hands-on backend work in Node.js, Express, GraphQL and PostgreSQL.
 
